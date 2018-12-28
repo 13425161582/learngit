@@ -1,0 +1,29 @@
+https://www.tapd.cn/company/participant_projects?left_tree=1
+username： lizengwen@ctirobot.com
+password：lzw**16***7
+
+Github https://github.com/
+134****82  EM:lzwly****@163.com
+passwd:l07****0
+
+git   passwd:52**10
+
+
+Git上的测试文档地址
+
+http://git.ctirobot.com:8080/yiman/TestDoc.git
+
+
+
+https://development.api.ctirobot.com/swagger-ui.html
+
+  
+GitHub 账户
+https://github.com/13425161582/learngit
+
+
+组织
+http://git.ctirobot.com:8080/AutoTest  
+
+命令行：
+git remote set-url origin <新地址>
